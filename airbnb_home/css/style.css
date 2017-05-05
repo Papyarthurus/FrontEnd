@@ -3,6 +3,7 @@
 @import url("components/footer.css");
 @import url("components/card.css");
 @import url("components/features.css");
+
 body {
   margin: 0;
   font-family: Open-sans, sans-serif;
